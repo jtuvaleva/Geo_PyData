@@ -1,6 +1,6 @@
 jupyter
 descartes
-tqdm==4.36.1
+tqdm==4.66.3
 requests
 pandas==1.1.3
 geopandas==0.8.1
